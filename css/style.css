@@ -1,4 +1,13 @@
 /* TODO: Make it awesome */
+ul{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+li{
+  padding-top: 8px;
+}
 
 h1 {
   display: block;
@@ -11,6 +20,11 @@ h1 {
   font-size: 40px;
   color: brown;
   background-color: burlywood;
+}
+
+main{
+  display: flex;
+
 }
 
 div {
