@@ -1,1 +1,30 @@
 /* TODO: Make it awesome */
+
+h1 {
+  display: block;
+  margin: 40px auto;
+  width: 20%;
+  padding: 20px;
+  border-radius: 10rem;
+  text-align: center;
+  font-family: ‘Dangrek’, cursive;
+  font-size: 40px;
+  color: brown;
+  background-color: burlywood;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: burlywood;
+  padding: 40px;
+}
+
+footer {
+  display: block;
+  margin: 40px auto;
+  text-align: center;
+  font-family: ‘Dangrek’, cursive;
+  color: brown;
+} 
